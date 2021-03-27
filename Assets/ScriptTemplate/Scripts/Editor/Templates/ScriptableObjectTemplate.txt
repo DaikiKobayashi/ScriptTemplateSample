@@ -1,0 +1,9 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[CreateAssetMenu(fileName = "#RUNTIMENAME#", menuName = "ScriptableObject/#RUNTIMENAME_WITH_SPACES#")]
+public class #SCRIPTNAME# : ScriptableObject
+{
+
+}
